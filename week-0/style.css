@@ -26,6 +26,7 @@
 .nav-items a {
   text-decoration: none;
   color: #858585;
+  padding: 10px;
 }
 
 .landing-img {
@@ -55,9 +56,12 @@ p {
 }
 
 .btn button {
-  padding: 7px 14px;
+  padding: 10px 30px;
   border-radius: 5px;
-  font-size: 16px;
+  font-size: 19px;
   font-weight: 500;
-  background-color: aqua;
+  background-color: #387ed1;
+  color: white;
+  margin: 25px 0px 0px;
+  border: none;
 }
