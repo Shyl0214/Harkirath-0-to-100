@@ -1,0 +1,63 @@
+/* Style */
+
+/* color */
+/* Background color */
+/* Padding */
+/* Margin */
+/* Border radius  */
+/* Box shadow */
+/* flex box */
+
+.parent {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 80px;
+  margin-right: 80px;
+  padding-top: 18px;
+}
+
+.nav-items {
+  display: flex;
+  gap: 2.6em;
+  font-size: 17px;
+  font-weight: 400;
+}
+
+.nav-items a {
+  text-decoration: none;
+  color: #858585;
+}
+
+.landing-img {
+  display: flex;
+  justify-content: center;
+  padding-top: 1.5em;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+h1 {
+  font-weight: 500;
+}
+
+p {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.btn {
+  font-weight: 500;
+  display: flex;
+  justify-content: center;
+}
+
+.btn button {
+  padding: 7px 14px;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: 500;
+  background-color: aqua;
+}
